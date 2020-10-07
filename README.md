@@ -60,7 +60,7 @@
 
 
 🤓 **About me**
-- 🔭 I’m currently working on TypeScript RPG CLI Game
+- 🔭 I’m currently working on [TypeScript RPG CLI Game](https://github.com/rafaeldias98/typescript-rpg-cli-game)
 - 🌱 I’m currently learning: React + Next.js
 - 💬 Ask me about: Next.js, API Rest
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rafaeldiassilva/)
