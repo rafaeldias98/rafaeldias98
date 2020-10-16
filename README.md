@@ -18,6 +18,7 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Síndrome do Impostor no mundo de Desenvolvimento de Software](https://www.linkedin.com/pulse/s%25C3%25ADndrome-do-impostor-mundo-de-desenvolvimento-rafael-dias-da-silva)
 - [A próxima geração de Desenvolvedores](https://www.linkedin.com/pulse/pr%C3%B3xima-gera%C3%A7%C3%A3o-de-desenvolvedores-rafael-dias-da-silva/)
 <!-- BLOG-POST-LIST:END -->
 
